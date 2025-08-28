@@ -9,6 +9,9 @@
 
 Ler artigos e ver tutoriais pode ajudar, mas nada melhor do que realmente "pôr a mão na massa" sem estragar nada. Este projecto visa simplificar a forma com que os novatos fazem a sua primeira contribuição. Lembre-se: quanto mais relaxado(a) estiveres, melhor aprenderás. Se quiseres fazer a tua primeira contribuição, siga os passos abaixo. Nós prometemos, será divertido.
 
+_Se não se sentir confortável com a linha de comando, [aqui estão tutoriais usando ferramentas GUI.](#tutoriais-usando-outras-ferramentas)_
+
+
 Se ainda não tens o git na tua máquina, [instala-o aqui]( https://help.github.com/articles/set-up-git/ ).
 
 ## Faz Fork deste repositório
